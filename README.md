@@ -48,4 +48,6 @@ To run this project locally:
 2. Set up a **MySQL** database and create a `user` table with columns for `username`, `password`, and `email`.
 3. Edit the PHP files to match your database credentials.
 4. Upload the project files to your server.
-5. Ensure **Google reCAPTCHA** is properly configured by obtaining site keys from [Google reCAPTCHA](https://www.google.com/recaptcha).
+5. Make sure **Google reCAPTCHA** is properly configured by obtaining site keys from [Google reCAPTCHA](https://www.google.com/recaptcha).
+
+  
